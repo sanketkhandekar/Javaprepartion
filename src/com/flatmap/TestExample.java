@@ -9,7 +9,7 @@ public class TestExample {
     public static void main(String[] args) {
 
         Student obj1 = new Student();
-        obj1.setName("Sanket");
+        obj1.setName("Sanket Demo");
         obj1.addBook("Java 8 in Action");
         obj1.addBook("Spring Boot in Action");
         obj1.addBook("Effective Java (2nd Edition)");
