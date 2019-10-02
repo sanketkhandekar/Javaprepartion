@@ -1,0 +1,6 @@
+Infosys,712,812.2
+L&T 1242,1102
+Kargo,1284
+Mango,124,8812		
+IndiaBulls,810,123
+CoxsAndKing,330,2193
